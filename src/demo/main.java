@@ -6,6 +6,7 @@ public class main {
 		// TODO Auto-generated method stub
 		// ha edit
 		//94 debug
+		// thay doi file main
 	}
 
 }
